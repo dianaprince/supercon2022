@@ -10,6 +10,7 @@ Resources and notes from my Hackaday Superconference talk
 * Two 4 inch linear actuators: https://www.amazon.com/gp/product/B00W1ENGR2/
 * Two pairs mounting brackets: https://www.amazon.com/dp/B07X5VT6QW
 * 3/4 inch Schedule 40 PVC pipe
+* 1 1/4 inch Schedule 40 PVC pipe
 * 1/4 inch acrylic sheet
 * Webbing for straps: https://www.joann.com/tan-webbing-trim/7836729.html
 * J-B Wweld epoxy: https://www.homedepot.com/p/J-B-Weld-25-ml-ClearWeld-Quick-Set-Epoxy-Syringe-50112/204986141
