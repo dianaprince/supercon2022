@@ -14,7 +14,7 @@ Resources and notes from my Hackaday Superconference talk
 * Two hinges
 * 1/4 inch acrylic sheet
 * Webbing for straps: https://www.joann.com/tan-webbing-trim/7836729.html
-* J-B Wweld epoxy: https://www.homedepot.com/p/J-B-Weld-25-ml-ClearWeld-Quick-Set-Epoxy-Syringe-50112/204986141
+* J-B Weld epoxy: https://www.homedepot.com/p/J-B-Weld-25-ml-ClearWeld-Quick-Set-Epoxy-Syringe-50112/204986141
 * One DPDT switch
 * Six 18650 batteries
 
